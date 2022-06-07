@@ -1,0 +1,20 @@
+[
+ {
+   "title": "Botas",
+   "price": 1500,
+   "thumbnail": "https://aca/se/ven/las/botas.png",
+   "id": 1
+ },
+ {
+   "title": "Ojotas",
+   "price": 500,
+   "thumbnail": "https://aca/se/ven/las/ojotas.png",
+   "id": 2
+ },
+ {
+   "title": "alpargatas",
+   "price": 900,
+   "thumbnail": "https://aca/se/ven/las/alpargatas.png",
+   "id": 3
+ }
+]
